@@ -1,4 +1,4 @@
-# ssdf-datasets
+# SSDF-Datasets 
 
 This repository contains multiple synthetic datasets of semantically segmented road-scene images, which have been created as part of the [SSDF](add link here) project.
 See [Perception package](https://github.com/Unity-Technologies/com.unity.perception) to see how we generate data.
