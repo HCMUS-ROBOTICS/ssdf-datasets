@@ -9,6 +9,7 @@ Visit the [our github page](hcmus-robotics.github.io) for more information on ou
 | Dataset name              | Type                  | Link                                                                        | Format | Details                              |
 | ------------------------  | --------------------- | --------------------------------------------------------------------------- | ------ | ------------------------------------ |
 | UIT-segmentation-map1     | semantic segmentation | [link](https://gitlab.com/wan2000/unitydatasets/-/tree/main/UIT_Map1)       | Lyft   | From UIT racing car competition 2020 |
+| UIT-segmentation-map2     | semantic segmentation | [link](https://gitlab.com/wan2000/unitydatasets/-/tree/main/UIT_Map2)       | Lyft   | From UIT racing car competition 2020 |
 | UIT-segmentation-round2   | semantic segmentation | [link](https://gitlab.com/wan2000/unitydatasets/-/tree/main/UIT_V2)         | Lyft   | From UIT racing car competition 2020 |
 | UIT-segmentation-round3   | semantic segmentation | link                                                                        | Lyft   | From UIT racing car competition 2020 |
 | FPT-segmentation-round1   | semantic segmentation | link                                                                        | Lyft   | From FPT racing car competition 2020 |
