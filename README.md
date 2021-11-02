@@ -13,7 +13,7 @@ Visit the [our github page](hcmus-robotics.github.io) for more information on ou
 | UIT-segmentation-round1-map1  | semantic segmentation | [link](https://gitlab.com/wan2000/unitydatasets/-/tree/main/UIT-round1-map1)  | Lyft   | From UIT racing car competition 2020 |
 | UIT-segmentation-round1-map2  | semantic segmentation | [link](https://gitlab.com/wan2000/unitydatasets/-/tree/main/UIT-round1-map2)  | Lyft   | From UIT racing car competition 2020 |
 | UIT-segmentation-round2       | semantic segmentation | [link](https://gitlab.com/wan2000/unitydatasets/-/tree/main/UIT-round2)       | Lyft   | From UIT racing car competition 2020 |
-| FPT-segmentation-round1       | semantic segmentation | link                                                                          | Lyft   | From FPT racing car competition 2020 |
+| FPT-segmentation-round1       | semantic segmentation | [link](https://gitlab.com/wan2000/unitydatasets/-/tree/main/FPT-round1)       | Lyft   | From FPT racing car competition 2020 |
 | UIT-object-round1             | object detection      | comming soon                                                                  | COCO   | From UIT racing car competition 2020 |
 | UIT-object-round2             | object detection      | comming soon                                                                  | COCO   | From UIT racing car competition 2020 |
 | UIT-object-round3             | object detection      | comming soon                                                                  | COCO   | From UIT racing car competition 2020 |
