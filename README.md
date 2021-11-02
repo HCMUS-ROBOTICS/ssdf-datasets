@@ -19,6 +19,10 @@ Visit the [our github page](hcmus-robotics.github.io) for more information on ou
 | UIT-lane-round2         | lane detection        | comming soon | CULane | From UIT racing car competition 2020 |
 | UIT-lane-round3         | lane detection        | comming soon | CULane | From UIT racing car competition 2020 |
 
+## Data Generation Demo in Unity
+
+<img src="assets/unity/demo_uit.gif">
+
 ## Segmentation Datasets
 
 Some information
