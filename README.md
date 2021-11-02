@@ -40,3 +40,6 @@ coming soon
 ## Lane datasets
 
 coming soon
+
+## License
+See [LICENSE](LICENSE)
