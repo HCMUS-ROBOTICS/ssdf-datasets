@@ -4,6 +4,8 @@ This repository contains multiple synthetic datasets of semantically segmented r
 See [Perception package](https://github.com/Unity-Technologies/com.unity.perception) to see how we generate data.
 Visit the [our github page](hcmus-robotics.github.io) for more information on our tools and project.
 
+<img src="assets/unity/demo_uit.gif">
+
 ## Table of Datasets
 
 | Dataset name            | Type                  | Link         | Format | Details                              |
@@ -18,10 +20,6 @@ Visit the [our github page](hcmus-robotics.github.io) for more information on ou
 | UIT-lane-round1         | lane detection        | comming soon | CULane | From UIT racing car competition 2020 |
 | UIT-lane-round2         | lane detection        | comming soon | CULane | From UIT racing car competition 2020 |
 | UIT-lane-round3         | lane detection        | comming soon | CULane | From UIT racing car competition 2020 |
-
-## Data Generation Demo in Unity
-
-<img src="assets/unity/demo_uit.gif">
 
 ## Segmentation Datasets
 
