@@ -1,5 +1,7 @@
 # SSDF-Datasets
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 This repository contains multiple synthetic datasets of semantically segmented road-scene images, which have been created as part of the [SSDF](https://project-page) project.
 See [Perception package](https://github.com/Unity-Technologies/com.unity.perception) to see how we generate data.
 Visit the [our github page](hcmus-robotics.github.io) for more information on our tools and project.
@@ -38,3 +40,6 @@ coming soon
 ## Lane datasets
 
 coming soon
+
+## License
+See [LICENSE](LICENSE)
